@@ -3,10 +3,10 @@ Uploading file or image a node application with express & mongodb database.
 
 Features Technology
 =====================
-Node
-Express
-Mongodb(mLab)
-EJS
+1.Node
+2.Express
+3.Mongodb(mLab)
+4.EJS
 
 Features Node Package Manager
 ===============================
